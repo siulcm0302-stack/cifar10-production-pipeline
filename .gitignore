@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+**/__pycache__/
+checkpoints/
+data/
+data_cifar/
+*.pth
+*.tar.gz
+qdrant_storage/
+*.pth
+results/
+*.pt
+*.bin
+models/
+*.safetensors

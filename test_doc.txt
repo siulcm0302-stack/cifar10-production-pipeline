@@ -1,0 +1,1 @@
+PyTorch es un framework de Deep Learning basado en tensores con ejecución dinámica. Hugging Face Spaces permite desplegar apps con ZeroGPU.

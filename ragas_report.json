@@ -1,0 +1,12 @@
+[
+  {
+    "user_input":"\u00bfQu\u00e9 permite Hugging Face Spaces?",
+    "answer_vs_reference_score":0.9999272823,
+    "context_relevance_score":0.9699006677
+  },
+  {
+    "user_input":"\u00bfQu\u00e9 es PyTorch?",
+    "answer_vs_reference_score":0.9999268055,
+    "context_relevance_score":0.9995133877
+  }
+]

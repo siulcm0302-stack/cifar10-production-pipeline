@@ -1,0 +1,18 @@
+[
+    {
+        "user_input": "¿Qué permite Hugging Face Spaces?",
+        "retrieved_contexts": [
+            "PyTorch es un framework de Deep Learning basado en tensores con ejecución dinámica. Hugging Face Spaces permite desplegar apps con ZeroGPU."
+        ],
+        "response": "Hugging Face Spaces permite desplegar apps con ZeroGPU.",
+        "reference": "Hugging Face Spaces permite desplegar apps con ZeroGPU."
+    },
+    {
+        "user_input": "¿Qué es PyTorch?",
+        "retrieved_contexts": [
+            "PyTorch es un framework de Deep Learning basado en tensores con ejecución dinámica."
+        ],
+        "response": "PyTorch es un framework de Deep Learning basado en tensores con ejecución dinámica.",
+        "reference": "PyTorch es un framework de Deep Learning basado en tensores con ejecución dinámica."
+    }
+]
